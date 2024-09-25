@@ -1,4 +1,4 @@
-# Kinect Floor Detection Algorithm
+# Kinect Terrain Tracker
 
 This project implements a floor detection algorithm using an **Xbox One Kinect** and the **Kinect SDK 2.0**. The
 algorithm highlights the detected floor in a depth image from the Kinect's camera and projects the floor into a *
