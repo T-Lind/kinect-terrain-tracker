@@ -29,9 +29,9 @@ Here are two images demonstrating the floor detection algorithm:
    <div align="center">
      <img src="assets/kinect_floor_be_outlined.png" alt="Bird's-Eye View" width="300px">
  <br>
-<strong>Bird's-Eye View</strong>: The floor is projected into a top-down, 2D perspective.
+<strong>Bird's-Eye View</strong>: The floor is projected into a top-down, 2D perspective.<br>
+Note that the true outline of available floor space is painted in **red**.
    </div>
-
 
 ## Setup
 
