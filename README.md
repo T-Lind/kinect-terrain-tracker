@@ -18,21 +18,21 @@ Here are two images demonstrating the floor detection algorithm:
 
 
 
-   <div align="center">
-     <img src="assets/kinect_floor_camera.png" alt="Camera View" width="300px">
-<br>
-<strong>Camera View</strong>: The floor is highlighted in **green** in the camera's depth view.
-   </div>
 
 
-<br>
+
    <div align="center">
      <img src="assets/kinect_floor_be_outlined.png" alt="Bird's-Eye View" width="300px">
  <br>
 <strong>Bird's-Eye View</strong>: The floor is projected into a top-down, 2D perspective.<br>
 Note that the true outline of available floor space is painted in **red**.
    </div>
-
+<br>
+   <div align="center">
+     <img src="assets/kinect_floor_camera.png" alt="Camera View" width="300px">
+<br>
+<strong>Camera View</strong>: The floor is highlighted in **green** in the camera's depth view.
+   </div>
 ## Setup
 
 ### Requirements
