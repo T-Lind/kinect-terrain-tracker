@@ -1,7 +1,3 @@
-Here is a `README.md` for your Kinect-based floor detection algorithm in C++:
-
----
-
 # Kinect Floor Detection Algorithm
 
 This project implements a floor detection algorithm using an **Xbox One Kinect** and the **Kinect SDK 2.0**. The
@@ -20,21 +16,22 @@ top of additional processing software, making it a fast and efficient solution f
 
 Here are two images demonstrating the floor detection algorithm:
 
-1. **Camera View**: The floor is highlighted in **green** in the camera's depth view.
 
-[//]: # (   ![Camera View]&#40;assets/kinect_floor_camera.png&#41;)
 
-[//]: # (instead, display using html)
+   <div align="center">
+     <img src="assets/kinect_floor_camera.png" alt="Camera View" width="300px">
+<br>
+<strong>Camera View</strong>: The floor is highlighted in **green** in the camera's depth view.
+   </div>
 
-    <img src="assets/kinect_floor_camera.png" alt="Camera View" width="400"/>
 
-2. **Bird's-Eye View**: The floor is projected into a top-down, 2D perspective.
+<br>
+   <div align="center">
+     <img src="assets/kinect_floor_be_outlined.png" alt="Bird's-Eye View" width="300px">
+ <br>
+<strong>Bird's-Eye View</strong>: The floor is projected into a top-down, 2D perspective.
+   </div>
 
-[//]: # (   ![Bird's-Eye View]&#40;assets/kinect_floor_be_outlined.png&#41;)
-
-[//]: # (instead, display using html)
-
-    <img src="assets/kinect_floor_be_outlined.png" alt="Bird's-Eye View" width="400"/>
 
 ## Setup
 
